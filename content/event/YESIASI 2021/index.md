@@ -1,5 +1,5 @@
 ---
-title: YES@IASI
+title: YES@IASI Seminar
 event: The Young Experts Seminars
 event_url: http://www.iasi.cnr.it/new/yes.php
 

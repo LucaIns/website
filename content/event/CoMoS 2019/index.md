@@ -1,5 +1,5 @@
 ---
-title: CoMoS Climate Change
+title: CoMoS Climate Change Meeting
 event: Meeting of the Complexity Modellers’ Society
 event_url: https://www.embeds.santannapisa.it/news/comos-climate-change-meeting-october-2020
 

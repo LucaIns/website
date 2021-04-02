@@ -1,5 +1,5 @@
 ---
-title: SMAC talk 2019
+title: SMAC Talk 
 event: Stochastic Modeling and Computational Statistics
 event_url: https://science.psu.edu/stat/smac-talks/fa19
 
