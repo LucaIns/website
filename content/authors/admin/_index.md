@@ -48,16 +48,16 @@ social:
   link: '/#contact'
 - icon: google-scholar # graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai # fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.it/citations?user=fEwX0SMAAAAJ&hl=it&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/LucaIns
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/luca-insolia
 - icon: researchgate
   icon_pack: ai
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.researchgate.net/profile/Luca-Insolia
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -80,6 +80,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 **I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics** – *David Cox*  
 
-My  primary  research  interests  concern  robust  statistics  and  high-dimensional modelling.  I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  The developed methodologies encompass continuous opti-mization methods as well as mixed-integer programming techniques.  I am also investigating the use of these tools to analyze the effects of climate change on honeybees mortality.  
+My  primary  research  interests  concern  robust  statistics  and  high-dimensional modelling.  I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  The developed methodologies encompass continuous optimization methods as well as mixed-integer programming techniques.  I am also investigating the use of these tools to analyze the effects of climate change on honeybees mortality.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
