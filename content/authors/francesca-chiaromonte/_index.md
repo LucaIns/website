@@ -6,7 +6,7 @@ title: Francesca Chiaromonte
 superuser: false
 
 # Role/position/tagline
-role: 
+<!-- role:  -->
 
 # Organizations/Affiliations to show in About widget
 # *Institute of Economics -- EMbeDS*
@@ -39,8 +39,8 @@ organizations:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 
 
-social:
-<!-- - icon: envelope
+<!-- social: 
+- icon: envelope
   icon_pack: fas
   link: '/#contact'
 - icon: google-scholar # graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -64,7 +64,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+<!-- email: "" -->
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
