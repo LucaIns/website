@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 40
 
 title: Contact
 subtitle:
@@ -26,5 +26,5 @@ content:
       captcha: true
   
 design:
-  columns: '2'
+  columns: '4'
 ---
