@@ -1,23 +1,23 @@
 ---
-title: SMAC talk 2019
-event: Stochastic Modeling and Computational Statistics
-event_url: https://science.psu.edu/stat/smac-talks/fa19
+title: CoMoS Climate Change
+event: Meeting of the Complexity Modellers’ Society
+event_url: https://www.embeds.santannapisa.it/news/comos-climate-change-meeting-october-2020
 
-location: Dept. of Statistics, Penn State University
+location: EMbeDS, Sant’Anna School of Advanced Studies
 address:
   street: 
-  city: University Park
-  region: PA
+  city: Pisa
+  region: 
   postcode: 
-  country: USA
+  country: Italy
 
-summary: A Robust Estimation Approach for Mean-Shift and Variance-Inflation Outliers # An example talk using Wowchemy's Markdown slides feature.
+summary: The Main Drivers of Honeybees Loss in the Unites States # An example talk using Wowchemy's Markdown slides feature.
 abstract: # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-10-25T10:10:00Z" # "2019-10-25T13:00:00Z"
-date_end: "2019-10-25T11:00:00Z" # "2030-06-01T15:00:00Z"
+date: "2020-10-15T16:55:00Z" # "2019-10-25T13:00:00Z"
+date_end: "2020-10-15T17:10:00Z" # "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
