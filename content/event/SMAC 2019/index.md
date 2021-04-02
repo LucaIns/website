@@ -6,9 +6,9 @@ event_url: https://science.psu.edu/stat/smac-talks/fa19
 location: Dept. of Statistics, Penn State University
 address:
   street: 
-  city: University Park, PA, USA
+  city: 
   region: 
-  postcode: 
+  postcode: University Park, PA, USA
   country: 
 
 summary: A Robust Estimation Approach for Mean-Shift and Variance-Inflation Outliers # An example talk using Wowchemy's Markdown slides feature.
