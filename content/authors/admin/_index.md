@@ -11,11 +11,11 @@ role: Research Fellow
 # Organizations/Affiliations to show in About widget
 # *Institute of Economics -- EMbeDS*
 organizations:
-- name: Sant'Anna School of Advanced Studies - *Institute of Economics -- EMbeDS*
+- name: Sant'Anna School of Advanced Studies 
   url: https://www.santannapisa.it/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My  primary  research  interests  concern  robust  statistics  and  high-dimensional modelling.  I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  The developed methodologies encompass continuous opti-mization methods as well as mixed-integer programming techniques.  I am also investigating the use of these tools to analyze the effects of climate change on honeybees mortality.
+bio: My  primary  research  interests  concern  robust  statistics  and  high-dimensional modelling.  I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  The developed methodologies encompass continuous optimization methods as well as mixed-integer programming techniques.  I am also investigating the use of these tools to analyze the effects of climate change on honeybees mortality.
 
 # Interests to show in About widget
 interests:
@@ -41,9 +41,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -57,6 +55,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
+- icon: researchgate
+  icon_pack: ai
+  link: https://twitter.com/GeorgeCushen
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
