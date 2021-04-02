@@ -3,16 +3,16 @@ title: YES@IASI Seminar
 event: The Young Experts Seminars
 event_url: http://www.iasi.cnr.it/new/yes.php
 
-location: CNR-IASI -- Institute for Systems Analysis and Computer Science of the Italian National Research Council
+location: CNR-IASI, Virtual
 address:
   street: 
-  city: Virtual
+  city: 
   region: 
   postcode: 
   country: 
 
-summary: Simultaneous Feature Selection and Outlier Detection with Optimality Guarantees # An example talk using Wowchemy's Markdown slides feature.
-abstract: # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Simultaneous Feature Selection and Outlier Detection with Optimality Guarantees 
+abstract: Institute for Systems Analysis and Computer Science of the Italian National Research Council 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
