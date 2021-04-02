@@ -8,7 +8,7 @@ address:
   street: 
   city: University Park
   region: PA
-  postcode: 
+  postcode: 16801
   country: United States
 
 summary: A Robust Estimation Approach for Mean-Shift and Variance-Inflation Outliers # An example talk using Wowchemy's Markdown slides feature.
