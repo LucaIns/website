@@ -16,8 +16,8 @@ abstract: # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posue
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-10-25" # "2019-10-25T13:00:00Z"
-date_end: # "2030-06-01T15:00:00Z"
+date: "2019-10-25T10:10:00Z" # "2019-10-25T13:00:00Z"
+date_end: "2019-10-25T11:00:00Z" # "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -61,7 +61,7 @@ projects:
 - []
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
@@ -73,4 +73,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
-{{% callout note %}}
+{{% callout note %}} -->
