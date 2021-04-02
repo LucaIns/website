@@ -1,5 +1,5 @@
 ---
-title: A Robust Estimation Approach for Mean-Shift and Variance-Inflation Outliers
+title: SMAC talk 2019
 event: Stochastic Modeling and Computational Statistics
 event_url: https://science.psu.edu/stat/smac-talks/fa19
 
@@ -11,7 +11,7 @@ address:
   postcode: 
   country: United States
 
-summary: # An example talk using Wowchemy's Markdown slides feature.
+summary: A Robust Estimation Approach for Mean-Shift and Variance-Inflation Outliers # An example talk using Wowchemy's Markdown slides feature.
 abstract: # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
