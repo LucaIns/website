@@ -6,7 +6,7 @@ title: "Simultaneous Feature Selection and Outlier Detection with Optimality Gua
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- chiaromonte
+- francesca-chiaromonte
 
 # Author notes (optional)
 #author_notes:
