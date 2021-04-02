@@ -6,8 +6,8 @@ title: "A Robust Estimation Approach for Mean-Shift and Variance-Inflation Outli
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Francesca Chiaromonte
-- Marco Riani
+- [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/)
+- [Marco Riani](http://riani.it/)
 
 # Author notes (optional)
 #author_notes:
