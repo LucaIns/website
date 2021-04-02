@@ -5,10 +5,10 @@ event_url: https://www.embeds.santannapisa.it/news/comos-climate-change-meeting-
 
 location: EMbeDS, Sant’Anna School of Advanced Studies
 address:
-  street: 
+  street: s 
   city: Pisa
-  region: 
-  postcode: 
+  region: s 
+  postcode: s 
   country: Italy
 
 summary: The Main Drivers of Honeybees Loss in the Unites States # An example talk using Wowchemy's Markdown slides feature.
