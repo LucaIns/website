@@ -6,9 +6,7 @@ title: "Simultaneous Feature Selection and Outlier Detection with Optimality Gua
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- [Ana Kenney](https://science.psu.edu/stat/people/ajk5910)
-- [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/)
-- [Giovanni Felici](http://www.iasi.cnr.it/new/people.php/id_subject/10)
+- chiaromonte
 
 # Author notes (optional)
 #author_notes:
