@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Luca Insolia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Sant'Anna School of Advanced Studies
+  url: https://www.santannapisa.it/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My  primary  research  interests  concern  robust  statistics  and  high-dimensionalmodelling.  I am currently developing statistical methodologies for analyzing sparse regression problems affectedby different forms of adversarial data contamination.  The developed methodologies encompass continuous opti-mization methods as well as mixed-integer programming techniques.  I am also investigating the use of these toolsto analyze the effects of climate change on honeybees mortality.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical Learning
+- Robust Statistics
+- Sparse Estimation
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Data Science
+    institution: Scuola Normale Superiore
+    year: since 2017
+  - course: MSc in Trade Marketing
+    institution: Univeristy of Parma
+    year: 2017
+  - course: BSc in Business Administration
+    institution: Univeristy of Catania
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
