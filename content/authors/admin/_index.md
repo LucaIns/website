@@ -82,7 +82,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 >
 > -- <cite>David Cox</cite>
 
-***I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics*** – David Cox  
+<!-- ***I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics*** – David Cox   -->
 
 My  primary  research  interests  concern  robust  statistics  and  high-dimensional modelling. 
 In 2019 I spent a period in the United States as a visiting scholar at Penn State University, where I worked with [Runze Li](http://www.personal.psu.edu/ril4/) and [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/).
