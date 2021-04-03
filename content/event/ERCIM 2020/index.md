@@ -1,6 +1,6 @@
 ---
-title: ENAR 2021 Conference
-event:   Eastern North American Region International Biometric Society -- Spring Meeting
+title: ERCIM 2020 Conference
+event:  13th  International  Conference  of  the  ERCIM  WG  on  Computational  and  Methodological Statistics (CMStatistics 2020)
 event_url: http://www.cmstatistics.org/CMStatistics2020/
 
 location: Virtual
@@ -12,12 +12,12 @@ address:
   country: 
 
 summary: Simultaneous Feature Selection and Outlier Detection with Optimality Guarantees # An example talk using Wowchemy's Markdown slides feature.
-abstract: # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-17T12:00:00Z" 
-date_end: "2021-17-21T12:15:00Z" 
+date: "2020-12-21T10:00:00Z" 
+date_end: "2020-12-21T10:30:00Z" 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
