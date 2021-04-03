@@ -3,7 +3,7 @@ title: ERCIM 2020 Conference
 event:  13th  International  Conference  of  the  ERCIM  WG  on  Computational  and  Methodological Statistics (CMStatistics 2020)
 event_url: http://www.cmstatistics.org/CMStatistics2020/
 
-location: Virtual, UK
+location: UK, Virtual
 address:
   street: 
   city: 

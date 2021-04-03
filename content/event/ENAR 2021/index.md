@@ -3,7 +3,7 @@ title: ENAR 2021 Conference
 event: Eastern North American Region International Biometric Society -- Spring Meeting
 event_url: https://www.enarspring.org/
 
-location: Virtual, USA
+location: USA, Virtual
 address:
   street: 
   city: 
