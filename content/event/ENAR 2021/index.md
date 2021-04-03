@@ -3,7 +3,7 @@ title: ENAR 2021 Conference
 event: Eastern North American Region International Biometric Society -- Spring Meeting
 event_url: https://www.enarspring.org/
 
-location: Virtual
+location: Virtual, USA
 address:
   street: 
   city: 
@@ -17,7 +17,7 @@ abstract:
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-17T12:00:00Z" 
-date_end: "2021-17-21T12:15:00Z" 
+date_end: "2021-03-17T12:00:00Z" 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
