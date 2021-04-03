@@ -78,7 +78,7 @@ highlight_name: true
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
  -->
 
-**I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics** – *David Cox*  
+***I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics*** – David Cox  
 
 My  primary  research  interests  concern  robust  statistics  and  high-dimensional modelling.  I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  The developed methodologies encompass continuous optimization methods as well as mixed-integer programming techniques.  I am also investigating the use of these tools to analyze the effects of climate change on honeybees mortality.  
 
