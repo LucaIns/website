@@ -80,6 +80,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 ***I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics*** – David Cox  
 
-My  primary  research  interests  concern  robust  statistics  and  high-dimensional modelling.  I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  The developed methodologies encompass continuous optimization methods as well as mixed-integer programming techniques.  I am also investigating the use of these tools to analyze the effects of climate change on honeybees mortality.  
+My  primary  research  interests  concern  robust  statistics  and  high-dimensional modelling. 
+In 2019 I spent a period in the US as a visiting scholar at Penn State University, and in 2017 I had a traineeship at the Joint Research Center of the European Commission.
+I am a developer of the [FSDA MATLAB Toolbox](https://github.com/UniprJRC/FSDA) and a member of the [Robust Statistics Acedemy](http://rosa.unipr.it/index.html).  
+
+
+I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  The developed methodologies encompass continuous optimization methods as well as mixed-integer programming techniques.  I am investigating the use of these tools to analyze the effects of climate change on honeybees mortality.  
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
