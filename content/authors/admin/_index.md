@@ -81,7 +81,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 ***I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics*** – David Cox  
 
 My  primary  research  interests  concern  robust  statistics  and  high-dimensional modelling. 
-In 2019 I spent a period in the US as a visiting scholar at Penn State University, and in 2017 I had a traineeship at the Joint Research Center of the European Commission.
+In 2019 I spent a period in the United States as a visiting scholar at Penn State University, where I worked with [Runze Li](http://www.personal.psu.edu/ril4/) and [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/). In 2017 I had a traineeship at the Joint Research Center of the European Commission, where I worked with [Domenico Perrotta](https://ec.europa.eu/jrc/en/person/domenico-perrotta).
+%
 I am a developer of the [FSDA MATLAB Toolbox](https://github.com/UniprJRC/FSDA) and a member of the [Robust Statistics Acedemy](http://rosa.unipr.it/index.html).  
 
 
