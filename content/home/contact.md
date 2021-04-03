@@ -12,7 +12,7 @@ weight: 50
 title: Contact
 subtitle:
 
-content:
+<!-- content:
   # Automatically link email and phone or display as text?
   autolink: true
   
@@ -26,5 +26,5 @@ content:
       captcha: true
   
 design:
-  columns: '4'
+  columns: '4' -->
 ---
