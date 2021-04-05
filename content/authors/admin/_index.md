@@ -78,7 +78,7 @@ highlight_name: true
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
  -->
 
-> I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics.
+> *I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics.*
 >
 > -- <cite>David Cox</cite>
 
