@@ -14,8 +14,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2019-10-01T00:00:00Z"
-doi: ""
+date: "2021-01-01T00:00:00Z"
+doi: "https://doi.org/10.1007/978-3-030-69009-0_2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-01T00:00:00Z"
@@ -28,7 +28,7 @@ publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Festschrift in Honor of R. Dennis Cook. Fifty Years of Contribution to Statistical Science.* Springer.
-publication_short: In *Festschrift in Honor of R. Dennis Cook*
+publication_short: In *Festschrift in Honor of R. Dennis Cook.* Springer.
 
 abstract: We consider a classical regression model contaminated by multiple outliers arising simultaneously from *mean-shift* and *variance-inflation* mechanisms -- which are generally considered as alternative. Identifying multiple outliers leads to computational challenges in the usual variance-inflation framework. We propose the use of *robust estimation* techniques to identify outliers arising from each mechanism, and we rely on *restricted maximum likelihood estimation* to accommodate variance-inflated outliers into the model. Furthermore, we introduce diagnostic plots which help to guide the analysis. We compare classical and robust methods with our novel approach on both simulated and real data.
 

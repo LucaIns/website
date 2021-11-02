@@ -85,12 +85,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 <!-- ***I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics*** – David Cox   -->
 
 My  primary  research  interests  concern  robust  statistics  and  high-dimensional modelling. 
-In 2019 I spent a period in the United States as a visiting scholar at Penn State University, where I worked with [Runze Li](http://www.personal.psu.edu/ril4/) and [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/).
+Between 2019 and 2020 I spent a period in the United States as a visiting scholar at Penn State University, where I worked with [Runze Li](http://www.personal.psu.edu/ril4/) and [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/).
 In 2017 I had a traineeship at the Joint Research Center of the European Commission, where I worked with [Domenico Perrotta](https://ec.europa.eu/jrc/en/person/domenico-perrotta),
 and I received a MSc (cum laude) from the University of Parma, where I worked with [Marco Riani](http://riani.it/) on a thesis titled *"A Modern Approach to Robust Regression"*.
 I am a developer of the [FSDA MATLAB Toolbox](https://github.com/UniprJRC/FSDA) and a member of the [Robust Statistics Acedemy](http://rosa.unipr.it/index.html).  
 
-My PhD dissertation is titled *"Approaches for Outlier Detection in Sparse High-Dimensional Regression Models"*.
+My PhD dissertation is entitled *"Approaches for Outlier Detection in Sparse High-Dimensional Regression Models"*.
 I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  The developed methodologies encompass continuous optimization methods as well as mixed-integer programming techniques.  I am investigating the use of these tools to analyze the effects of climate change on honeybees mortality.  
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
