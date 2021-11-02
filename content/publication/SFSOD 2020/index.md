@@ -15,8 +15,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-07-01T00:00:00Z"
-doi: ""
+date: "2021-08-01T00:00:00Z"
+doi: "https://doi.org/10.1111/biom.13553"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-01T00:00:00Z"
@@ -28,8 +28,8 @@ publishDate: "2021-04-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ArXiV*
-publication_short: In *ArXiV*
+publication: Biometrics
+publication_short: Biometrics
 
 abstract: Biomedical research is increasingly data rich, with studies comprising ever growing numbers of features. The larger a study, the higher the likelihood that a substantial portion of the features may be redundant and/or contain contamination (outlying values). This poses serious challenges, which are exacerbated in cases where the sample sizes are relatively small. Effective and effcient approaches to perform sparse estimation in the presence of outliers are critical for these studies, and have received considerable attention in the last decade. We contribute to this area considering high-dimensional regressions contaminated by multiple *mean-shift outliers* affecting both the response and the design matrix. We develop a general framework and use *mixed-integer programming* to simultaneously perform feature selection and outlier detection with provably optimal guarantees. We prove theoretical properties for our approach, i.e., a necessary and suffcient condition for the *robustly strong oracle property*, where the number of features can increase exponentially with the sample size; the optimal estimation of parameters; and the breakdown point of the resulting estimates. Moreover, we provide computationally effcient procedures to tune integer constraints and warm-start the algorithm. We show the superior performance of our proposal compared to existing heuristic methods through simulations and use it to study the relationships between childhood obesity and the human microbiome.
 
