@@ -6,13 +6,13 @@ title: Ana Kenney
 superuser: false
 
 # Role/position/tagline
-role: Graduate Student
+role: Postdoc
 
 # Organizations/Affiliations to show in About widget
 # *Institute of Economics -- EMbeDS*
 organizations:
-- name: Penn State University
-  url: https://science.psu.edu/stat/people/ajk5910
+- name: University of California, Berkeley
+  url: https://statistics.berkeley.edu/people/ana-kenney
 
 # Short bio (displayed in user profile at end of posts)
 <!-- bio:  -->
