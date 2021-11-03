@@ -89,8 +89,7 @@ I am currently a Research Fellow at Sant’Anna School for Advanced Studies, and
 My  primary  research  interests  concern  robust  statistics  and  high-dimensional modeling. 
 My Ph.D. dissertation is entitled *"Approaches for Outlier Detection in Sparse High-Dimensional Regression Models"*.
 I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.
-The developed methodologies rely on discrete and continuous optimization methods.
-I am also investigating the use of these tools to analyze the main possible drivers of honey bee colony loss.  
+The developed methodologies rely on discrete and continuous optimization methods. I am also investigating the use of these tools to analyze the main possible drivers of honey bee colony loss.  
 
 Between 2019 and 2020 I spent a period in the United States as a visiting scholar at Penn State University, where I worked with [Runze Li](http://www.personal.psu.edu/ril4/) and [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/).
 In 2017 I had a traineeship at the Joint Research Center of the European Commission, where I worked with [Domenico Perrotta](https://ec.europa.eu/jrc/en/person/domenico-perrotta),
