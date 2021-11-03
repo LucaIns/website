@@ -6,17 +6,17 @@ title: "Simultaneous Feature Selection and Outlier Detection with Optimality Gua
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- ana-kenney
 - francesca-chiaromonte
-- giovanni-felici
+- marco-riani
+- runze-li
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-08-01T00:00:00Z"
-doi: "https://doi.org/10.1111/biom.13553"
+date: "2021-09-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-01T00:00:00Z"
@@ -28,10 +28,10 @@ publishDate: "2021-04-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Biometrics
-publication_short: Biometrics
+publication: arXiv preprint
+publication_short:
 
-abstract: Biomedical research is increasingly data rich, with studies comprising ever growing numbers of features. The larger a study, the higher the likelihood that a substantial portion of the features may be redundant and/or contain contamination (outlying values). This poses serious challenges, which are exacerbated in cases where the sample sizes are relatively small. Effective and effcient approaches to perform sparse estimation in the presence of outliers are critical for these studies, and have received considerable attention in the last decade. We contribute to this area considering high-dimensional regressions contaminated by multiple *mean-shift outliers* affecting both the response and the design matrix. We develop a general framework and use *mixed-integer programming* to simultaneously perform feature selection and outlier detection with provably optimal guarantees. We prove theoretical properties for our approach, i.e., a necessary and suffcient condition for the *robustly strong oracle property*, where the number of features can increase exponentially with the sample size; the optimal estimation of parameters; and the breakdown point of the resulting estimates. Moreover, we provide computationally effcient procedures to tune integer constraints and warm-start the algorithm. We show the superior performance of our proposal compared to existing heuristic methods through simulations and use it to study the relationships between childhood obesity and the human microbiome.
+abstract: We propose a general approach to handle data contaminations that might disrupt the performance of feature selection and estimation procedures for high-dimensional linear models. Specifically, we consider the co-occurrence of mean-shift and variance-inflation outliers, which can be modeled as additional fixed and random components, respectively, and evaluated independently. Our proposal performs feature selection while detecting and down-weighting variance-inflation outliers, detecting and excluding mean-shift outliers, and retaining non-outlying cases with full weights. Feature selection and mean-shift outlier detection are performed through a robust class of nonconcave penalization methods. Variance-inflation outlier detection is based on the penalization of the restricted posterior mode. The resulting approach satisfies a robust oracle property for feature selection in the presence of data contamination -- which allows the number of features to exponentially increase with the sample size -- and detects truly outlying cases of each type with asymptotic probability one. This provides an optimal trade-off between a high breakdown point and efficiency. Computationally efficient heuristic procedures are also presented. We illustrate the finite-sample performance of our proposal through an extensive simulation study and a real-world application.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,8 +46,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.researchgate.net/publication/342915458_Simultaneous_Feature_Selection_and_Outlier_Detection_with_Optimality_Guarantees'
-url_code: 'https://github.com/LucaIns/SFSOD_MIP'
+url_pdf: 'https://arxiv.org/pdf/2106.11941'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
