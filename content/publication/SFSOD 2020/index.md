@@ -42,9 +42,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Supplementary Material
+  url: https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fbiom.13553&file=biom13553-sup-0001-ReplicationCode.zip
 
 url_pdf: 'https://www.researchgate.net/publication/342915458_Simultaneous_Feature_Selection_and_Outlier_Detection_with_Optimality_Guarantees'
 url_code: 'https://github.com/LucaIns/SFSOD_MIP'
