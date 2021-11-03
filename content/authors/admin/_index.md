@@ -27,13 +27,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Data Science
+  - course: Ph.D. in Data Science
     institution: Scuola Normale Superiore
     year: since 2017
-  - course: MSc in Trade Marketing
+  - course: M.Sc. in Trade Marketing
     institution: Univeristy of Parma
     year: 2017
-  - course: BSc in Business Administration
+  - course: B.Sc. in Business Administration
     institution: Univeristy of Catania
     year: 2014
 
@@ -59,6 +59,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Luca-Insolia
+- icon: twitter
+  icon_pack: ai
+  link: https://twitter.com/insolia_luca
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -93,7 +96,7 @@ The developed methodologies rely on discrete and continuous optimization methods
 
 Between 2019 and 2020 I spent a period in the United States as a visiting scholar at Penn State University, where I worked with [Runze Li](http://www.personal.psu.edu/ril4/) and [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/).
 In 2017 I had a traineeship at the Joint Research Center of the European Commission, where I worked with [Domenico Perrotta](https://ec.europa.eu/jrc/en/person/domenico-perrotta),
-and I received a M.Sc. (cum laude) from the University of Parma, where I worked with [Marco Riani](http://riani.it/) on a thesis titled *"A Modern Approach to Robust Regression"*.
+and I received a M.Sc. (cum laude) from the University of Parma, where I worked with [Marco Riani](http://riani.it/) on a thesis entitled *"A Modern Approach to Robust Regression"*.
 I am also a developer of the [FSDA MATLAB Toolbox](https://github.com/UniprJRC/FSDA) and a member of the [Robust Statistics Acedemy](http://rosa.unipr.it/index.html).  
 
 
