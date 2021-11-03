@@ -1,23 +1,23 @@
 ---
-title: JSM 2021 Conference
-event:  Joint Statistical Meetings 2021
-event_url: https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=318453
+title: ICORS 2021 Conference
+event:  International Conference on Robust Statistics 2021
+event_url: http://cstat.tuwien.ac.at/filz/icors2020/program.html
 
-location: Virtual event
+location: TU Wien
 address:
   street: 
-  city: 
+  city: Vienna
   region: 
   postcode:
-  country: 
+  country: Austria
 
-summary: Doubly Robust Feature Selection with Mean and Variance Outlier Detection and Oracle Properties # An example talk using Wowchemy's Markdown slides feature.
+summary: Doubly Robust Feature Selection with Mean and Variance Outlier Detection and Oracle Properties 
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-08-08T10:00:00Z" 
-date_end: "2021-08-12T10:30:00Z" 
+date: "2021-09-20T10:00:00Z" 
+date_end: "2021-09-24T10:30:00Z" 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
