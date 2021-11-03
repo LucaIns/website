@@ -20,6 +20,7 @@ bio: My  primary  research  interests  concern  robust  statistics  and  high-di
 # Interests to show in About widget
 interests:
 - Statistical Learning
+- Computational Statistics
 - Robust Statistics
 - Sparse Estimation
 
