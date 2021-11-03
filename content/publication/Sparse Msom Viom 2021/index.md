@@ -1,5 +1,5 @@
 ---
-title: "Simultaneous Feature Selection and Outlier Detection with Optimality Guarantees"
+title: "Doubly Robust Feature Selection with Mean and Variance Outlier Detection and Oracle Properties"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

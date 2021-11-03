@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marco Riani
+title: Runze Li
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,8 +11,8 @@ role: Full professor
 # Organizations/Affiliations to show in About widget
 # *Institute of Economics -- EMbeDS*
 organizations:
-- name: University of Parma
-  url: http://riani.it/
+- name: The Pennsylvania State University
+  url: https://www.personal.psu.edu/ril4/
 
 # Short bio (displayed in user profile at end of posts)
 <!-- bio:  -->
