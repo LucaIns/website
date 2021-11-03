@@ -56,8 +56,11 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/luca-insolia
-- icon: twitter
+- icon: researchgate
   icon_pack: ai
+  link: https://www.researchgate.net/profile/Luca-Insolia
+- icon: twitter
+  icon_pack: fab
   link: https://twitter.com/insolia_luca
 
 # Link to a PDF of your resume/CV.
