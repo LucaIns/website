@@ -7,7 +7,7 @@ title: "Simultaneous Feature Selection and Outlier Detection with Optimality Gua
 authors:
 - admin
 - ana-kenney
-- francesca-chiaromonte
+- martina-calovi
 - giovanni-felici
 
 # Author notes (optional)
@@ -15,8 +15,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-08-01T00:00:00Z"
-doi: "https://doi.org/10.1111/biom.13553"
+date: "2021-07-31T00:00:00Z"
+doi: "https://doi.org/10.3390/stats4030040"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-01T00:00:00Z"
@@ -25,13 +25,13 @@ publishDate: "2021-04-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Biometrics
-publication_short: Biometrics
+publication: Stats
+# publication_short: Stats
 
-abstract: Biomedical research is increasingly data rich, with studies comprising ever growing numbers of features. The larger a study, the higher the likelihood that a substantial portion of the features may be redundant and/or contain contamination (outlying values). This poses serious challenges, which are exacerbated in cases where the sample sizes are relatively small. Effective and effcient approaches to perform sparse estimation in the presence of outliers are critical for these studies, and have received considerable attention in the last decade. We contribute to this area considering high-dimensional regressions contaminated by multiple *mean-shift outliers* affecting both the response and the design matrix. We develop a general framework and use *mixed-integer programming* to simultaneously perform feature selection and outlier detection with provably optimal guarantees. We prove theoretical properties for our approach, i.e., a necessary and suffcient condition for the *robustly strong oracle property*, where the number of features can increase exponentially with the sample size; the optimal estimation of parameters; and the breakdown point of the resulting estimates. Moreover, we provide computationally effcient procedures to tune integer constraints and warm-start the algorithm. We show the superior performance of our proposal compared to existing heuristic methods through simulations and use it to study the relationships between childhood obesity and the human microbiome.
+abstract: High-dimensional classification studies have become widespread across various domains. The large dimensionality, coupled with the possible presence of data contamination, motivates the use of robust, sparse estimation methods to improve model interpretability and ensure the majority of observations agree with the underlying parametric model. In this study, we propose a robust and sparse estimator for logistic regression models, which simultaneously tackles the presence of outliers and/or irrelevant features. Specifically, we propose the use of $L_0$-constraints and mixed-integer conic programming techniques to solve the underlying double combinatorial problem in a framework that allows one to pursue optimality guarantees. We use our proposal to investigate the main drivers of honey bee (*Apis mellifera*) loss through the annual winter loss survey data collected by the Pennsylvania State Beekeepers Association. Previous studies mainly focused on predictive performance, however our approach produces a more interpretable classification model and provides evidence for several outlying observations within the survey data. We compare our proposal with existing heuristic methods and non-robust procedures, demonstrating its effectiveness. In addition to the application to honey bee loss, we present a simulation study where our proposal outperforms other methods across most performance measures and settings.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,8 +46,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.researchgate.net/publication/342915458_Simultaneous_Feature_Selection_and_Outlier_Detection_with_Optimality_Guarantees'
-url_code: 'https://github.com/LucaIns/SFSOD_MIP'
+url_pdf: 'https://www.mdpi.com/2571-905X/4/3/40#'
+url_code: 'https://github.com/LucaIns/SFSOD_logreg'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -90,4 +90,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
 
-Under review.
+# Under review.
