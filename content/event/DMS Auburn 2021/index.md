@@ -11,7 +11,7 @@ address:
   postcode:
   country: 
 
-summary: Parasitic Mites, Pesticides and Extreme Weather Linked to Honey Bee Loss: a Study Across the United States Through Multiple Open Data Sources
+summary: {{Parasitic Mites, Pesticides and Extreme Weather Linked to Honey Bee Loss: a Study Across the United States Through Multiple Open Data Sources}}
 abstract: 
 
 # Talk start and end times.
