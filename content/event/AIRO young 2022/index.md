@@ -1,9 +1,9 @@
 ---
-title: ICORS 2021 Conference
-event:  International Conference on Robust Statistics 2021
-event_url: http://cstat.tuwien.ac.at/filz/icors2020/program.html
+title: 6th AIROYoung Workshop
+event:  Operation Research and Data Science in Public Services
+event_url: https://ayw2022.uniroma3.it/
 
-location: TU Wien, Vienna, Austria
+location: Roma Tre University, Engineering Dept., Rome, Italy
 address:
   street: 
   city:
@@ -11,13 +11,13 @@ address:
   postcode:
   country:
 
-summary: Doubly Robust Feature Selection with Mean and Variance Outlier Detection and Oracle Properties 
+summary: Discrete Optimization for Robust Feature Selection
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-20T10:00:00Z" 
-date_end: "2021-09-24T10:30:00Z" 
+date: "2022-02-23T10:00:00Z" 
+date_end: "2022-02-25T17:30:00Z" 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
