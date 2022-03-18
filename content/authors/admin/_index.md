@@ -88,7 +88,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 <!-- ***I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics*** – David Cox   -->
 
-I am currently a Research Fellow at Sant’Anna School for Advanced Studies, and I am in the process of completing my Ph.D. in Data Science at Scuola Normale Superiore.
+Current positions: Research Fellow at Sant’Anna School for Advanced Studies, Ph.D. Candidate in Data Science at Scuola Normale Superiore, and Research Associate at the Italian National Research Council.
+
 My  primary  research  interests  concern  robust  statistics  and  high-dimensional modeling. 
 My Ph.D. dissertation is entitled *"Approaches for Outlier Detection in Sparse High-Dimensional Regression Models"*.
 I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.
