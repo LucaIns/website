@@ -11,7 +11,8 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 # *Institute of Economics -- EMbeDS*
 organizations:
-- name: Université de Genève -- Research Center for Statistics
+- name: Université de Genève 
+        Research Center for Statistics
   url: https://www.unige.ch/gsem/en/research/faculty/fellows/luca-insolia/
 
 # Short bio (displayed in user profile at end of posts)
