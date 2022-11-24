@@ -6,16 +6,16 @@ title: Luca Insolia
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 # *Institute of Economics -- EMbeDS*
 organizations:
-- name: Sant'Anna School of Advanced Studies 
-  url: https://www.santannapisa.it/en
+- name: Université de Genève 
+  url: https://www.unige.ch/gsem/en/research/faculty/fellows/luca-insolia/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My  primary  research  interests  concern  robust  statistics  and  high-dimensional modeling.  I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  The developed methodologies encompass continuous optimization methods as well as mixed-integer programming techniques.  I am also investigating the use of these tools to analyze the main possible drivers of honey bee colony loss.
+bio: My  primary  research  interests  concern  robust  statistics and high-dimensional modeling. During my PhD, I developed statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  The developed methodologies encompass continuous optimization methods as well as mixed-integer programming techniques.  I applied these tools to analyze biomedical data and to investigate the main possible drivers of honey bee colony loss.
 
 # Interests to show in About widget
 interests:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Data Science
     institution: Scuola Normale Superiore
-    year: since 2017
+    year: 2022
   - course: M.Sc. in Trade Marketing
     institution: Univeristy of Parma
     year: 2017
@@ -88,12 +88,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 <!-- ***I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics*** – David Cox   -->
 
-Current positions: Research Fellow at Sant’Anna School for Advanced Studies, Ph.D. Candidate in Data Science at Scuola Normale Superiore, and Research Associate at the Italian National Research Council.
+#Current positions: Postdoctoral Researcher Fellow at Université de Genève. 
+#, Ph.D. Candidate in Data Science at Scuola Normale Superiore, and Research Associate at the Italian National Research Council.
 
-My  primary  research  interests  concern  robust  statistics  and  high-dimensional modeling. 
-My Ph.D. dissertation is entitled *"Approaches for Outlier Detection in Sparse High-Dimensional Regression Models"*.
-I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.
-The developed methodologies rely on discrete and continuous optimization methods. I am also investigating the use of these tools to analyze the main possible drivers of honey bee colony loss.  
+#My  primary  research  interests  concern  robust  statistics  and  high-dimensional modeling. 
+#My Ph.D. dissertation is entitled *"Approaches for Outlier Detection in Sparse High-Dimensional Regression Models"*.
+#I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.
+#The developed methodologies rely on discrete and continuous optimization methods. I am also investigating the use of these tools to analyze the main possible drivers of honey bee colony loss.  
+
+My  primary  research  interests  concern  robust  statistics and high-dimensional modeling. 
+I am currently part of the research group of [Stéphane Guerrier](https://www.unige.ch/gsem/en/research/faculty/all/stephane-guerrier/) and [Maria-Pia Victoria-Feser](https://www.unige.ch/gsem/en/research/faculty/all/maria-pia-victoria-feser/) at the [Geneva School of Economics and Management - Université de Genève](https://www.unige.ch/gsem/en/).
+
+I obtained my PhD (cum laude), with a thesis on *"Approaches for Outlier Detection in Sparse High-Dimensional Regression Models"*, where I developed statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.  
+The developed methodologies encompass continuous optimization methods as well as mixed-integer programming techniques.  
+I applied these tools to analyze biomedical data and to investigate the main possible drivers of honey bee colony loss.
 
 Between 2019 and 2020 I spent a period in the United States as a visiting scholar at Penn State University, where I worked with [Runze Li](http://www.personal.psu.edu/ril4/) and [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/).
 In 2017 I had a traineeship at the Joint Research Center of the European Commission, where I worked with [Domenico Perrotta](https://ec.europa.eu/jrc/en/person/domenico-perrotta),
