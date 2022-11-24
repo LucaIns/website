@@ -16,7 +16,7 @@ abstract: # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posue
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-07-4T09:00:00Z" # "2022-07-05T18:00:00Z"
+date: "2022-07-04T09:00:00Z" # "2022-07-05T18:00:00Z"
 date_end: "2022-07-05T18:00:00Z" # "2030-06-01T15:00:00Z"
 all_day: false
 
