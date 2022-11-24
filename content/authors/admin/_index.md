@@ -73,6 +73,14 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+#Current positions: Postdoctoral Researcher Fellow at Université de Genève. 
+#, Ph.D. Candidate in Data Science at Scuola Normale Superiore, and Research Associate at the Italian National Research Council.
+
+#My  primary  research  interests  concern  robust  statistics  and  high-dimensional modeling. 
+#My Ph.D. dissertation is entitled *"Approaches for Outlier Detection in Sparse High-Dimensional Regression Models"*.
+#I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.
+#The developed methodologies rely on discrete and continuous optimization methods. I am also investigating the use of these tools to analyze the main possible drivers of honey bee colony loss.  
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
@@ -87,14 +95,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 > -- <cite>David Cox</cite>
 
 <!-- ***I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics*** – David Cox   -->
-
-#Current positions: Postdoctoral Researcher Fellow at Université de Genève. 
-#, Ph.D. Candidate in Data Science at Scuola Normale Superiore, and Research Associate at the Italian National Research Council.
-
-#My  primary  research  interests  concern  robust  statistics  and  high-dimensional modeling. 
-#My Ph.D. dissertation is entitled *"Approaches for Outlier Detection in Sparse High-Dimensional Regression Models"*.
-#I am currently developing statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination.
-#The developed methodologies rely on discrete and continuous optimization methods. I am also investigating the use of these tools to analyze the main possible drivers of honey bee colony loss.  
 
 My  primary  research  interests  concern  robust  statistics and high-dimensional modeling. 
 I am currently part of the research group of [Stéphane Guerrier](https://www.unige.ch/gsem/en/research/faculty/all/stephane-guerrier/) and [Maria-Pia Victoria-Feser](https://www.unige.ch/gsem/en/research/faculty/all/maria-pia-victoria-feser/) at the [Geneva School of Economics and Management - Université de Genève](https://www.unige.ch/gsem/en/).
