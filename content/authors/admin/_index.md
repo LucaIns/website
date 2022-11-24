@@ -11,7 +11,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 # *Institute of Economics -- EMbeDS*
 organizations:
-- name: Université de Genève 
+- name: Université de Genève -- Research Center for Statistics
   url: https://www.unige.ch/gsem/en/research/faculty/fellows/luca-insolia/
 
 # Short bio (displayed in user profile at end of posts)
@@ -96,8 +96,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 <!-- ***I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics*** – David Cox   -->
 
-My  primary  research  interests  concern  robust  statistics and high-dimensional modeling. 
-I am currently part of the research group of [Stéphane Guerrier](https://www.unige.ch/gsem/en/research/faculty/all/stephane-guerrier/) and [Maria-Pia Victoria-Feser](https://www.unige.ch/gsem/en/research/faculty/all/maria-pia-victoria-feser/) at the [Geneva School of Economics and Management -- Université de Genève](https://www.unige.ch/gsem/en/).
+My  primary  research  interests  concern  robust  statistics, high-dimensional modeling and computational statistics. 
+
+I am currently part of the research group of [Stéphane Guerrier](https://www.unige.ch/gsem/en/research/faculty/all/stephane-guerrier/) and [Maria-Pia Victoria-Feser](https://www.unige.ch/gsem/en/research/faculty/all/maria-pia-victoria-feser/) at the [Research Center for Statistics -- Geneva School of Economics and Management -- Université de Genève](https://www.unige.ch/gsem/en/).
 
 I obtained my PhD (cum laude) in 2022, with a thesis on *"Approaches for Outlier Detection in Sparse High-Dimensional Regression Models"*, where I developed statistical methodologies for analyzing sparse regression problems affected by different forms of adversarial data contamination. The developed methodologies encompass continuous optimization methods as well as mixed-integer programming techniques. I applied these tools to analyze biomedical data and to investigate the main possible drivers of honey bee colony loss.
 
