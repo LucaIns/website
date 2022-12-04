@@ -48,9 +48,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2106.11941'
-url_code: ''
-url_dataset: ''
+url_pdf: https://doi.org/10.1038/s41598-022-24946-4
+url_code: https://doi.org/10.1038/s41598-022-24946-4
+url_dataset: https://doi.org/10.1038/s41598-022-24946-4
 url_poster: ''
 url_project: ''
 url_slides: ''
