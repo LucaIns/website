@@ -6,9 +6,9 @@ title: "Honey bee colony loss linked to parasites, pesticides and extreme weathe
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- roberto-molinari
-- stephanie-rogers
-- geoffrey-williams
+- Roberto Molinari
+- Stephanie R. Rogers
+- Geoffrey R. Williams
 - francesca-chiaromonte
 - martina-calovi
 
