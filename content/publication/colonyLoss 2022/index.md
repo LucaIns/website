@@ -30,8 +30,8 @@ publishDate: "2022-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Scientific Reports
-publication_short:
+publication: Scientific Reports, 12, 20787 (2022).
+publication_short: Scientific Reports
 
 abstract: Honey bee (*Apis mellifera*) colony loss is a widespread phenomenon with important economic and biological implications, whose drivers are still an open matter of investigation. We contribute to this line of research through a large-scale, multi-variable study combining multiple publicly accessible data sources. Specifically, we analyzed quarterly data covering the contiguous United States for the years 2015-2021, and combined open data on honey bee colony status and stressors, weather data, and land use. The different spatio-temporal resolutions of these data are addressed through an up-scaling approach that generates additional statistical features which capture more complex distributional characteristics and significantly improve modeling performance. Treating this expanded feature set with state-of-the-art feature selection methods, we obtained findings that, nation-wide, are in line with the current knowledge on the aggravating roles of *Varroa destructor* and pesticides in colony loss. Moreover, we found that extreme temperature and precipitation events, even when controlling for other factors, significantly impact colony loss. Overall, our results reveal the complexity of biotic and abiotic factors affecting managed honey bee colonies across the United States.
 
@@ -49,8 +49,8 @@ featured: false
 #   url: http://example.org
 
 url_pdf: https://doi.org/10.1038/s41598-022-24946-4
-url_code: https://doi.org/10.1038/s41598-022-24946-4
-url_dataset: https://doi.org/10.1038/s41598-022-24946-4
+url_code: https://github.com/LucaIns/honey_bee_loss_US_scirep
+url_dataset: https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-022-24946-4/MediaObjects/41598_2022_24946_MOESM2_ESM.csv
 url_poster: ''
 url_project: ''
 url_slides: ''
