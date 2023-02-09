@@ -3,7 +3,7 @@ title: ERCIM 2022 Conference
 event:  15th  International  Conference  of  the  ERCIM  WG  on  Computational  and  Methodological Statistics (CMStatistics 2022)
 event_url: http://www.cmstatistics.org/CMStatistics2022/
 
-location: UK, Virtual
+location: King's College, London, UK
 address:
   street: 
   city: 
