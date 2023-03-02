@@ -106,7 +106,7 @@ Between 2021 and 2022, I was a Research Fellow at [Sant’Anna School for Advanc
 Between 2019 and 2020, I spent a period in the United States as a visiting scholar at [Penn State University](https://science.psu.edu/stat/our-department), where I worked with [Runze Li](http://www.personal.psu.edu/ril4/) and [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/).
 In 2017 I had a traineeship at the [Joint Research Center of the European Commission](https://ec.europa.eu/info/departments/joint-research-centre_en), where I worked with [Domenico Perrotta](https://ec.europa.eu/jrc/en/person/domenico-perrotta),
 and I received a M.Sc. (cum laude) from the [University of Parma](https://sea.unipr.it/en), where I worked with [Marco Riani](http://riani.it/) on a thesis entitled *"A Modern Approach to Robust Regression"*.
-I am also a developer of the [FSDA MATLAB Toolbox](https://github.com/UniprJRC/FSDA) and a member of the [Robust Statistics Acedemy](http://rosa.unipr.it/index.html).  
+I am also a developer of the [FSDA MATLAB Toolbox](https://github.com/UniprJRC/FSDA) and a member of the [Robust Statistics Academy](http://rosa.unipr.it/index.html).  
 
 
 
